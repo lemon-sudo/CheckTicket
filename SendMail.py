@@ -4,11 +4,11 @@ import time
 import datetime
 
 smtpserver='smtp.qq.com'
-senderaddr='lemonsprite@foxmail.com'
-senderpassword='qrdkbwslwoahdjdc'
-AdminEmail='3279294856@qq.com'
+senderaddr='8888@foxmail.com'
+senderpassword='8888'
+AdminEmail='8888@qq.com'
 
-recieveemail='3279294856@qq.com'
+recieveemail='8888@qq.com'
 
 number=sys.argv[1]
 
